@@ -20,10 +20,9 @@ is phishing or legitimate.
 
 [SRS.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631421/SRS.pdf)
 
-[Report.pdf](https://github.com/30092000/Malicious-w[Report.zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631415/Report.zip)
-
 [weekly status.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631424/weekly.status.pdf)
 
+[Report.zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631435/Report.zip)
 
 [Report.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631418/Report.pdf)
 
