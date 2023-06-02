@@ -16,4 +16,5 @@ is phishing or legitimate.
 
 # Documentation
 
-[Report.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631331/Report.pdf)
+[Report.pdf](https://github.com/30092000/Malicious-w[Report.zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631415/Report.zip)
+ebsite-detection-using-ML/files/11631331/Report.pdf)
