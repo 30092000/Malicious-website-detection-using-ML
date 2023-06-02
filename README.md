@@ -16,17 +16,17 @@ is phishing or legitimate.
 
 # Documentation
 
-[Abstract.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631423/Abstract.pdf)
+-[Abstract.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631423/Abstract.pdf)
 
-[SRS.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631421/SRS.pdf)
+*[SRS.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631421/SRS.pdf)
 
-[weekly status.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631424/weekly.status.pdf)
++[weekly status.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631424/weekly.status.pdf)
 
-[Report.zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631435/Report.zip)
+-[Report.zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631435/Report.zip)
 
-[Report.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631418/Report.pdf)
+*[Report.pdf](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631418/Report.pdf)
 
-[phishing website detection (2).zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631428/phishing.website.detection.2.zip)
++[phishing website detection (2).zip](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631428/phishing.website.detection.2.zip)
 
-[presentation slides (1).pptx](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631426/presentation.slides.1.pptx)
+-[presentation slides (1).pptx](https://github.com/30092000/Malicious-website-detection-using-ML/files/11631426/presentation.slides.1.pptx)
 
